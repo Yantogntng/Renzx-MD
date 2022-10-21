@@ -1,13 +1,11 @@
 {
-    "name": "Zxynri-MD",
-    "version": "3.5.4",
-    "description": "by.rozi",
-    "depecrated": false,
-    "main": "index.js",
-    "directories": {
-        "lib": "lib",
-        "src": "src",
-        "plugins": "plugins"
+    "name": "cloudqr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.1",
+    "qrcode-terminal": "^0.12.0"
     },
     "scripts": {
         "start": "node index.js",
